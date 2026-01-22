@@ -8,4 +8,4 @@ if [ -f "$file_path" ]; then
     echo "Количество строк в файле: $line_count"
 else
     echo "Файл не найден!"
-fi
+fi 
